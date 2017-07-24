@@ -1,1 +1,1 @@
-buggy python code again
+print("a python code"
