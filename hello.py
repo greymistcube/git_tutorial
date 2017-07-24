@@ -1,1 +1,1 @@
-print("Not a saying hello anymore!")
+print("Not saying hello anymore!")
